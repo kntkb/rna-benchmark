@@ -1,0 +1,144 @@
+experiment_1:
+  doi: 10.1021/bi3010347
+  observable:
+    name: 3J-coupling
+    unit: Hz
+  method:
+    name: nmr
+    temperature: 278.15 * kelvin
+  comment:
+  sequence: cccc
+  smiles:
+  measurement:
+    resi_1:
+      beta_1:
+        value:
+        operator:
+        error:
+      beta_2:
+        value:
+        operator:
+        error:
+      gamma_1:
+        value:
+        operator:
+        error:
+      gamma_2:
+        value:
+        operator:
+        error:
+      epsilon:
+        value:
+        operator:
+        error:
+      nu_1:
+        value: 1
+        operator: "<="
+        error:
+      nu_2:
+        value: 3.6
+        operator:
+        error: 0.5
+      nu_3:
+        value: 8.7
+        operator:
+        error: 0.5
+    resi_2:
+      beta_1:
+        value: 3.8
+        operator:
+        error: 0.5
+      beta_2:
+        value: 1.2
+        operator:
+        error: 0.5
+      gamma_1:
+        value: 1
+        operator: "<="
+        error:
+      gamma_2:
+        value: 1
+        operator: "<="
+        error:
+      epsilon:
+        value: 8.8
+        operator:
+        error: 0.5
+      nu_1:
+        value: 1
+        operator: "<="
+        error:
+      nu_2:
+        value: 4.3
+        operator:
+        error: 0.5
+      nu_3:
+        value:
+        operator:
+        error:
+    resi_3:
+      beta_1:
+        value: 3.9
+        operator:
+        error: 0.5
+      beta_2:
+        value: 0.5
+        operator:
+        error:
+      gamma_1:
+        value: 2.1
+        operator:
+        error: 0.5
+      gamma_2:
+        value: 1
+        operator: "<="
+        error:
+      epsilon:
+        value: 9.3
+        operator:
+        error: 0.5
+      nu_1:
+        value: 1
+        operator: "<="
+        error:
+      nu_2:
+        value: 4.7
+        operator:
+        error: 0.5
+      nu_3:
+        value: 8.8
+        operator:
+        error: 0.5
+    resi_4:
+      beta_1:
+        value: 3.8
+        operator:
+        error: 0.5
+      beta_2:
+        value: 1.1
+        operator:
+        error: 0.5
+      gamma_1:
+        value: 2.0
+        operator:
+        error: 0.5
+      gamma_2:
+        value: 1.4
+        operator:
+        error: 0.5
+      epsilon:
+        value: 9.3
+        operator:
+        error: 0.5
+      nu_1:
+        value: 2.6
+        operator:
+        error: 0.5
+      nu_2:
+        value: 4.9
+        operator:
+        error: 0.5
+      nu_3:
+        value: 7.2
+        operator:
+        error: 0.5

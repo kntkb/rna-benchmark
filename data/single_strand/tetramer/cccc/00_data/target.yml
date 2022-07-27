@@ -1,0 +1,21 @@
+alternate:
+  iridium_classifier: 
+  iridium_score: 
+  pdb: 
+associated_sets:
+- 
+comments: ''
+date: 2022-07-14
+dpi: 
+id: 
+iridium_classifier: 
+iridium_score: 
+name: cccc
+netcharge:  
+pdb: 
+- 
+references:
+  calculation:
+  - 10.1073/pnas.1713027115
+  measurement:
+  - 10.1021/bi3010347
