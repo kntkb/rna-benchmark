@@ -1,0 +1,290 @@
+experiment_1:
+  doi: 10.1021/ct501025q
+  observable:
+    name: 3J-coupling
+    unit: Hz
+  method:
+    name: nmr
+    temperature: 275.15 * kelvin
+  comment:
+  sequence: gacc
+  smiles:
+  measurement:
+    resi_1:
+      beta_1:
+        value:
+        operator:
+        error:
+      beta_2:
+        value:
+        operator:
+        error:
+      gamma_1:
+        value: 4.6
+        operator:
+        error:
+      gamma_2:
+        value: 2.3
+        operator:
+        error:
+      epsilon:
+        value: 9.3
+        operator:
+        error:
+      nu_1:
+        value: 1.8
+        operator:
+        error:
+      nu_2:
+        value: 4.4
+        operator:
+        error:
+      nu_3:
+        value: 7.9
+        operator:
+        error:
+    resi_2:
+      beta_1:
+        value: 3.7
+        operator:
+        error:
+      beta_2:
+        value: 0.9
+        operator:
+        error:
+      gamma_1:
+        value: 2
+        operator: "~"
+        error:
+      gamma_2:
+        value: 2
+        operator: "~"
+        error:
+      epsilon:
+        value: 9.1
+        operator:
+        error:
+      nu_1:
+        value: 1
+        operator: "<"
+        error:
+      nu_2:
+        value: 4.4
+        operator:
+        error:
+      nu_3:
+        value: 8.9
+        operator:
+        error:
+    resi_3:
+      beta_1:
+        value: 4.0
+        operator:
+        error:
+      beta_2:
+        value: 2.0
+        operator:
+        error:
+      gamma_1:
+        value: 1.5
+        operator:
+        error:
+      gamma_2:
+        value: 1
+        operator: "<"
+        error:
+      epsilon:
+        value: 9.0
+        operator:
+        error:
+      nu_1:
+        value: 1
+        operator: "<"
+        error:
+      nu_2:
+        value: 4.0
+        operator:
+        error:
+      nu_3:
+        value: 8.8
+        operator:
+        error:
+    resi_4:
+      beta_1:
+        value: 4.4
+        operator:
+        error:
+      beta_2:
+        value: 2.0
+        operator:
+        error:
+      gamma_1:
+        value: 1.8
+        operator:
+        error:
+      gamma_2:
+        value: 1.3
+        operator:
+        error:
+      epsilon:
+        value:
+        operator:
+        error:
+      nu_1:
+        value: 2.5
+        operator:
+        error:
+      nu_2:
+        value: 4.6
+        operator:
+        error:
+      nu_3:
+        value: 7.2
+        operator:
+        error:
+computational_1:
+  doi: 10.1073/pnas.1713027115
+  observable:
+    name: 3J-coupling
+    unit: Hz
+  method:
+    name: md
+    forcefield: rna.shaw
+    watermodel: tip4p-d
+    temperature: 275 * kelvin
+  comment:
+  sequence: gacc
+  smiles:
+  measurement:
+    resi_1:
+      beta_1:
+        value:
+        operator:
+        error:
+      beta_2:
+        value:
+        operator:
+        error:
+      gamma_1:
+        value: 2.6
+        operator:
+        error:
+      gamma_2:
+        value: 2.9
+        operator:
+        error:
+      epsilon:
+        value: 7.8
+        operator:
+        error:
+      nu_1:
+        value: 1.4
+        operator:
+        error:
+      nu_2:
+        value: 4.6
+        operator:
+        error:
+      nu_3:
+        value: 8.0
+        operator:
+        error:
+    resi_2:
+      beta_1:
+        value: 3.2
+        operator:
+        error:
+      beta_2:
+        value: 2.3
+        operator:
+        error:
+      gamma_1:
+        value: 2.5
+        operator:
+        error:
+      gamma_2:
+        value: 1.0
+        operator:
+        error:
+      epsilon:
+        value: 8.2
+        operator:
+        error:
+      nu_1:
+        value: 1.3
+        operator:
+        error:
+      nu_2:
+        value: 4.5
+        operator:
+        error:
+      nu_3:
+        value: 8.2
+        operator:
+        error:
+    resi_3:
+      beta_1:
+        value: 3.4
+        operator:
+        error:
+      beta_2:
+        value: 2.2
+        operator:
+        error:
+      gamma_1:
+        value: 2.6
+        operator:
+        error:
+      gamma_2:
+        value: 0.9
+        operator:
+        error:
+      epsilon:
+        value: 8.4
+        operator:
+        error:
+      nu_1:
+        value: 1.5
+        operator:
+        error:
+      nu_2:
+        value: 4.6
+        operator:
+        error:
+      nu_3:
+        value: 8.2
+        operator:
+        error:
+    resi_4:
+      beta_1:
+        value: 3.5
+        operator:
+        error:
+      beta_2:
+        value: 2.2
+        operator:
+        error:
+      gamma_1:
+        value: 2.5
+        operator:
+        error:
+      gamma_2:
+        value: 1.0
+        operator:
+        error:
+      epsilon:
+        value:
+        operator:
+        error:
+      nu_1:
+        value: 2.8
+        operator:
+        error:
+      nu_2:
+        value: 5.0
+        operator:
+        error:
+      nu_3:
+        value: 6.7
+        operator:
+        error:
